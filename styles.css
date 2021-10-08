@@ -1,0 +1,47 @@
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 31.71%,rgba(240,239,239,1.00) 65.70%,rgba(9,8,8,1.00) 99.17%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 31.71%,rgba(240,239,239,1.00) 65.70%,rgba(9,8,8,1.00) 99.17%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 31.71%,rgba(240,239,239,1.00) 65.70%,rgba(9,8,8,1.00) 99.17%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0%,rgba(255,255,255,1.00) 31.71%,rgba(240,239,239,1.00) 65.70%,rgba(9,8,8,1.00) 99.17%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(62,62,62,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(62,62,62,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(62,62,62,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(62,62,62,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FBA200;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+    color: #FCB001;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #000000;
+
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #FFB204;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFB204;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFB204;
+}
+.container-fluid .container footer {
+    color: #FFFFFF;
+}
+.text-lef {
+	
+}
+p2 {
+		font-size: 24px;
+	}
